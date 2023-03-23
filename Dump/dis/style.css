@@ -1,0 +1,31 @@
+.navbar{
+    background-color: aqua;
+    border-radius: 12px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar ul li{
+    float: left;
+    list-style: none;
+    padding: 5px 5px;
+    margin: 12px 20px;
+}
+
+.searchbox{
+    float: right;
+    margin-top: 14px;
+    margin-right: 80px;
+    
+}
+.navbar input{
+    padding: 5px;
+    width: 280px;
+    border: none;
+    border-radius: 8px;
+}
+.header{
+    display: inline;
+}
